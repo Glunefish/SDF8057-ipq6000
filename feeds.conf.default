@@ -2,3 +2,5 @@ src-git luci https://github.com/Glunefish/luci-sdf.git;2023
 src-git packages https://github.com/Glunefish/packages-sdf.git;2023
 src-git routing https://github.com/openwrt/routing.git;openwrt-23.05
 src-git telephony https://github.com/openwrt/telephony.git;openwrt-23.05
+src-git small https://github.com/kenzok8/small.git;master
+src-git smpackage https://github.com/kenzok8/small-package.git;main
